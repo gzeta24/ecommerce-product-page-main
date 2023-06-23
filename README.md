@@ -18,7 +18,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/gzeta24/ecommerce-product-page-main
 - Live site:
 
 ## My process
